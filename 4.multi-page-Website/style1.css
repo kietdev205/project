@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    padding: 3px 5px;
+    margin-right: 15px;
+    background:#353b48 ;
+    color: white;
+    border-radius: 12px;
+}
+.menu{
+    display: flex;
+    background-color: #00a8ff;
+    padding: 15px 0;
+    padding-left: 15px;
+}
+.main{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    color: red;
+}
